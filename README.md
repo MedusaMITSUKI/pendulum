@@ -1,6 +1,9 @@
 # pendulum
  振り子の等時性の破れを調べる．
 
+ ## 実行環境
+ - Julia (IJulia, Jupyter notebook)
+
  ## 振り子の等時性
  振り子は**振り幅が小さい時**の周期 T_0 は以下の式で求められます
  ```math
